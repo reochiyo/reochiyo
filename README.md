@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Reo👋
+"You build it, you run it!"
 
-<!--
-**reochiyo/reochiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Status
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reochiyo&layout=donut&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=reochiyo&show_icons=true" />
+</p>
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=reochiyo&theme=onedark
+)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Social Media
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/uyamoer)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:reo.chiyomaru@gmail.com)
